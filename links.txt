@@ -1,0 +1,8 @@
+Blazor:
+https://blazor-university.com/ - туториал.
+https://github.com/mrpmorris/blazor-validation - пример реализации на blazor.
+
+Radzen:
+https://blazor.radzen.com/get-started - документация.
+https://github.com/radzenhq/radzen-blazor - исходный код.
+https://github.com/BlazorUI/blazor.radzen.com - пример реализации на radzen.

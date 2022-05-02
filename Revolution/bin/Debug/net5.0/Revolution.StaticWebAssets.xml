@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="E:\work\Sofia\Revolution\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/Components" Path="E:\work\Sofia\Components\obj\Debug\net5.0\scopedcss\projectbundle\" />
+  <ContentRoot BasePath="_content/Components" Path="E:\work\Sofia\Components\wwwroot\" />
+</StaticWebAssets>

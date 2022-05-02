@@ -1,0 +1,12 @@
+E:\work\Sofia\DAL\bin\Debug\net5.0\DAL.deps.json
+E:\work\Sofia\DAL\bin\Debug\net5.0\DAL.dll
+E:\work\Sofia\DAL\bin\Debug\net5.0\ref\DAL.dll
+E:\work\Sofia\DAL\bin\Debug\net5.0\DAL.pdb
+E:\work\Sofia\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+E:\work\Sofia\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\Sofia\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+E:\work\Sofia\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+E:\work\Sofia\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+E:\work\Sofia\DAL\obj\Debug\net5.0\DAL.dll
+E:\work\Sofia\DAL\obj\Debug\net5.0\ref\DAL.dll
+E:\work\Sofia\DAL\obj\Debug\net5.0\DAL.pdb

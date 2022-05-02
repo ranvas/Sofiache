@@ -1,0 +1,15 @@
+E:\work\Sofia\Core\bin\Debug\net5.0\Core.deps.json
+E:\work\Sofia\Core\bin\Debug\net5.0\Core.dll
+E:\work\Sofia\Core\bin\Debug\net5.0\ref\Core.dll
+E:\work\Sofia\Core\bin\Debug\net5.0\Core.pdb
+E:\work\Sofia\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\Sofia\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+E:\work\Sofia\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+E:\work\Sofia\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+E:\work\Sofia\Core\obj\Debug\net5.0\Core.dll
+E:\work\Sofia\Core\obj\Debug\net5.0\ref\Core.dll
+E:\work\Sofia\Core\obj\Debug\net5.0\Core.pdb
+E:\work\Sofia\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+E:\work\Sofia\Core\bin\Debug\net5.0\Core.Abstractions.dll
+E:\work\Sofia\Core\bin\Debug\net5.0\Core.Abstractions.pdb
+E:\work\Sofia\Core\obj\Debug\net5.0\Core.csproj.CopyComplete

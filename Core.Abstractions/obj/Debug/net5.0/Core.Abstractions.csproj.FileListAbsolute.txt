@@ -1,0 +1,12 @@
+E:\work\Sofia\Core.Abstractions\bin\Debug\net5.0\Core.Abstractions.deps.json
+E:\work\Sofia\Core.Abstractions\bin\Debug\net5.0\Core.Abstractions.dll
+E:\work\Sofia\Core.Abstractions\bin\Debug\net5.0\ref\Core.Abstractions.dll
+E:\work\Sofia\Core.Abstractions\bin\Debug\net5.0\Core.Abstractions.pdb
+E:\work\Sofia\Core.Abstractions\obj\Debug\net5.0\Core.Abstractions.csproj.AssemblyReference.cache
+E:\work\Sofia\Core.Abstractions\obj\Debug\net5.0\Core.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\Sofia\Core.Abstractions\obj\Debug\net5.0\Core.Abstractions.AssemblyInfoInputs.cache
+E:\work\Sofia\Core.Abstractions\obj\Debug\net5.0\Core.Abstractions.AssemblyInfo.cs
+E:\work\Sofia\Core.Abstractions\obj\Debug\net5.0\Core.Abstractions.csproj.CoreCompileInputs.cache
+E:\work\Sofia\Core.Abstractions\obj\Debug\net5.0\Core.Abstractions.dll
+E:\work\Sofia\Core.Abstractions\obj\Debug\net5.0\ref\Core.Abstractions.dll
+E:\work\Sofia\Core.Abstractions\obj\Debug\net5.0\Core.Abstractions.pdb
